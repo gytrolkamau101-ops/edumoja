@@ -1,0 +1,6 @@
+EduMoja v38
+- School fee STK removed for now (Paybill/Till only — platform stays out of fee money)
+- Dashboard: Subscribe control in banner; full modal (plans + terms + email + phone + STK)
+- Login: plan cards are informational only (no Continue to pay / no terms tick)
+- Clearer STK errors on Termux/localhost (deploy + live URL required)
+- Platform subscribe still school_subscribe (session-linked school)
